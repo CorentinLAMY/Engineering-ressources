@@ -9,6 +9,19 @@ If your file is in this repo and you want to pull out this file, please contact 
 To participate to this repo -> [Pull Request](https://github.com/...)
 
 ---------------
+# 1. Embedded Systems
+
+
+## 1.1. Arduino
+## 1.2. ST-Microelectronic
+## 1.3. Microchip PIC MCU
+## 1.4. Raspberry Pi
+
+# 2. Electronical Engineering
+
+# 3. Mechanical Engineering
+
+
 # 1. Ressources académiques
 
 ## 1.1 Pour bien commencer
