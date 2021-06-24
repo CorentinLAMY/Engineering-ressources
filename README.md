@@ -8,7 +8,7 @@ You can use this repository for things like [Eurobot](https://www.eurobot.org/),
 Ressources are mostly in english :gb:, but some of them are in french :fr:.
 
 If your file is in this repo and you want to pull out this file, please contact me !
-To participate to this repo -> [Pull Request](https://github.com/...)
+To participate to this repo -> [Pull Request](https://github.com/CorentinLAMY/Engineering-ressources/pulls)
 
 # 1. Embedded Systems
 Absolute knowleadges: 
