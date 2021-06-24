@@ -10,12 +10,21 @@ To participate to this repo -> [Pull Request](https://github.com/...)
 
 ---------------
 # 1. Embedded Systems
+Absolute knowleadgeKnowleages: C/C++ mostly embedded use language, Python, 
+
+## 1.1. Maker MCUs (Arduino boards)
+[Arduino](https://www.arduino.cc/)
+Easist way to learn embedded systems!
+
+## 1.2. Industrial MCUs (ST-Microelectronic, Microchip PIC MCU)
+[STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[PIC32](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/32-bit-mcu)
+Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of systems !
 
 
-## 1.1. Arduino
-## 1.2. ST-Microelectronic
-## 1.3. Microchip PIC MCU
-## 1.4. Raspberry Pi
+## 1.3. Linux single_board computers (Raspberry Pi, Jetson Nano)
+## 1.4. Accessoiries and other stuff
+
 
 # 2. Electronical Engineering
 
