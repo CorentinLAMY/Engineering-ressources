@@ -27,8 +27,39 @@ Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of syst
 ## 1.4. Accessoiries and other stuff
 
 # 2. Electronical Engineering
+## 2.1. Ressources
+### 2.1.1 Books
+### 2.1.2 Videos
+### 2.1.3 CAD Softwares
+### 2.1.4 Simulation Softwares
+
 
 # 3. Mechanical Engineering
+## 3.1. Ressources
+### 3.1.1 Books
+### 3.1.2 Videos
+### 2.1.3 CAD Softwares
+### 2.1.4 Simulation Softwares
+# 3.2. Standard components
+
+
+# 4. Robotics
+
+## 4.1. Frameworks
+### 4.1.1 R.O.S
+### 4.1.2 Micro-ROS
+### 4.1.3 ROSSerial Library
+
+## 4.2. Mobile robot
+### 4.2.1 Frame
+### 4.2.2 Wheel
+### 4.2.3 Odometry
+
+## 4.3. Robot Arm
+### 4.3.1 Type of robot
+### 4.3.2 Mathematic ressources
+
+
 
 
 # 1. Ressources académiques
