@@ -41,9 +41,9 @@ Needed knowleadges:
 * [ESP32](https://www.espressif.com/en/products/socs/esp32) can be program with the arduino framework.
 
 ### 1.1.1 Books :books:
-* [Le grand livre d'ARDUINO](https://):fr:
-* [Programming Arduini: Gettin started with sketches](https://):gb:
-* [Arduino CookBook](https://):gb: 
+* [Le grand livre d'ARDUINO](https://) :fr:
+* [Programming Arduini: Gettin started with sketches](https://) :gb:
+* [Arduino CookBook](https://) :gb: 
 
 ### 1.1.2 Development Environment
 * [Arduino IDE](http://...) Open-Source IDE
@@ -57,9 +57,9 @@ Needed knowleadges:
 Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of systems !
 
 ### 1.2.1 Books :books:
-* [RTOS with Microcontrollers](http://...):gb:
-* [Advanced Programming with STM32 Microcontrollers](http://...):gb:
-* [Nucleo Boards Programming with the STM32CubeIDE](http://...):gb:
+* [RTOS with Microcontrollers](http://...) :gb:
+* [Advanced Programming with STM32 Microcontrollers](http://...) :gb:
+* [Nucleo Boards Programming with the STM32CubeIDE](http://...) :gb:
 
 ### 1.2.2 Development Environment
 You can program on STM32 with:
