@@ -36,7 +36,11 @@ Needed knowleadges:
 
 ## 1.1. Maker MCUs
 [Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China.
+
 ### 1.1.1 Books :books:
+* [Le grand livre d'ARDUINO](https://):fr:
+* [Programming Arduini: Gettin started with sketches](https://):gb:
+* [Arduino CookBook](https://):gb: 
 
 ### 1.1.2 Development Environment
 * [Arduino IDE](http://...) Open-Source IDE
