@@ -83,9 +83,9 @@ FPGA development for embedded system design.
 
 ## 1.5. Accessoiries and other stuff
 * Debugger and programmer for MCUs
-  * [PICkit 4 for PIC8/16/32 bits](https://) The minimal PIC programmer and debugger
-  * [ICD4 for PIC8/16/32 bits](https://) The best PIC programmer and debugger
-  * [ST-Link/V3 for STM8/32](https://) Made by STMicroelectronic for STM-Microcontroller
+  * [PICkit 4](https://) for PIC8/16/32 bits. The minimal PIC programmer and debugger
+  * [ICD4](https://) for PIC8/16/32 bits. The best PIC programmer and debugger
+  * [ST-Link/V3](https://) for STM8/32. Made by STMicroelectronic for STM-Microcontroller
   * [SEGGER J-Link](https://) The best one but expensive
   * [Tag-Connector](https://) PCB connector without component
 
