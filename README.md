@@ -11,12 +11,11 @@ If your file is in this repo and you want to pull out this file, please contact 
 To participate to this repo -> [Pull Request](https://github.com/CorentinLAMY/Engineering-ressources/pulls)
 
 # 1. Embedded Systems
-Absolute knowleadges: 
+Needed knowleadges: 
 - C/C++ language 
 - Rasic electronics
 - Python
-- OpenCV
-- ROS
+
 
 ## 1.1. Maker MCUs
 [Arduino](https://www.arduino.cc/)
