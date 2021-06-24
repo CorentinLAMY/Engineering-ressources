@@ -3,14 +3,20 @@ Ressources for engineering
 
 This repository is tedicated to collect and share ressources about engineering for robotic, embedded system and everything about the maker community !
 
-You can use this repository for things like [Eurobot](https://www.eurobot.org/).
+You can use this repository for things like [Eurobot](https://www.eurobot.org/), or in a FabLab [World map of FabLabs](https://www.fablabs.io/labs/map).
+
 Ressources are mostly in english :gb:, but some of them are in french :fr:.
 
 If your file is in this repo and you want to pull out this file, please contact me !
 To participate to this repo -> [Pull Request](https://github.com/...)
 
 # 1. Embedded Systems
-Absolute knowleadgeKnowleages: C/C++ mostly embedded use language, Python, 
+Absolute knowleadges: 
+- C/C++ language 
+- Rasic electronics
+- Python
+- OpenCV
+- ROS
 
 ## 1.1. Maker MCUs
 [Arduino](https://www.arduino.cc/)
