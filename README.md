@@ -35,7 +35,7 @@ Needed knowleadges:
 
 
 ## 1.1. Maker MCUs
-[Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China.
+[Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China. Raspberry Pi 
 
 ### 1.1.1 Books :books:
 * [Le grand livre d'ARDUINO](https://):fr:
@@ -68,6 +68,8 @@ You can program on PIC microcontrollers with:
 * [MPLAB X IPE](https://) To transfert program
 * [MPLAB Harmony](https://) For project creation with libraries
 
+Most (not all) MCUs like Arduino, STM32, PIC32 and ESP32 can be program and debug with:
+* [PlatformIO](https://...) One of the best IDE available for free.
 
 ## 1.3. Linux singleboard computers
 
