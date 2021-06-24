@@ -1,6 +1,5 @@
 Ressources for engineering 
-
-===============
+==========================
 
 This repository is tedicated to collect and share ressources about engineering for robotic, embedded system and everything about the maker community !
 
@@ -9,8 +8,6 @@ Ressources are mostly in english :gb:, but some of them are in french :fr:.
 
 If your file is in this repo and you want to pull out this file, please contact me !
 To participate to this repo -> [Pull Request](https://github.com/...)
-
-===============
 
 # 1. Embedded Systems
 Absolute knowleadgeKnowleages: C/C++ mostly embedded use language, Python, 
