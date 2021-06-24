@@ -13,7 +13,7 @@ To participate to this repo -> [Pull Request](https://github.com/CorentinLAMY/En
 # 1. Embedded Systems
 Needed knowleadges: 
 - C/C++ language 
-- Rasic electronics
+- Basics of electronic -> [Advance electronics](2. Electronical Engineering)
 - Python
 
 
