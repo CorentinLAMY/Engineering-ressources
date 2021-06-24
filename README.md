@@ -9,7 +9,7 @@ If your file is in this repo and you want to pull out this file, please contact 
 To participate to this repo -> [Pull Request](https://github.com/...)
 
 ===============
-:books: :🇫🇷:
+:books: 🇫🇷
 ===============
 
 # 1. Embedded Systems
