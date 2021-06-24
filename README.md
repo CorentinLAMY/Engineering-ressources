@@ -42,7 +42,7 @@ Needed knowleadges:
 
 ### 1.1.1 Books :books:
 * [Le grand livre d'ARDUINO](https://) :fr:
-* [Programming Arduini: Gettin started with sketches](https://) :gb:
+* [Programming Arduino: Getting started with sketches](https://) :gb:
 * [Arduino CookBook](https://) :gb: 
 
 ### 1.1.2 Development Environment
