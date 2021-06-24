@@ -35,7 +35,9 @@ Needed knowleadges:
 
 
 ## 1.1. Maker MCUs
-[Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China. Raspberry-Pi Fondation designed their first microcontroller the [Raspberry-Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/).
+* [Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China.
+* Raspberry-Pi Fondation designed their first microcontroller the [Raspberry-Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/).
+* [ESP32](https://www.espressif.com/en/products/socs/esp32) can be program with the arduino framework.
 
 ### 1.1.1 Books :books:
 * [Le grand livre d'ARDUINO](https://):fr:
@@ -72,6 +74,8 @@ Most (not all) MCUs like Arduino, STM32, PIC32 and ESP32 can be program and debu
 * [PlatformIO](https://...) One of the best IDE available for free.
 
 ## 1.3. Linux singleboard computers
+* [Raspberry-Pi](https://...)
+* [NVidia Jetson-Nano](https://...)
 
 ## 1.4. Accessoiries and other stuff
 * Debugger and programmer for MCUs
