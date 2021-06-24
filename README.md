@@ -10,6 +10,20 @@ Ressources are mostly in english :gb:, but some of them are in french :fr:.
 If your file is in this repo and you want to pull out this file, please contact me !
 To participate to this repo -> [Pull Request](https://github.com/CorentinLAMY/Engineering-ressources/pulls)
 
+Table of contents:
+=================
+
+* [Embedded Systems](#1-embedded-systems)
+  * [maker MCUs](#1.1.-Maker-MCUs)
+  * [Industrial MCUs](#getting-started)
+  * [Linux singleboard computers](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 # 1. Embedded Systems
 Needed knowleadges: 
 - C/C++ language 
@@ -28,7 +42,7 @@ Easist way to learn embedded systems!
 Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of systems !
 ### 1.2.1 Books :books:
 
-## 1.3. Linux single_board computers
+## 1.3. Linux singleboard computers
 
 ## 1.4. Accessoiries and other stuff
 
