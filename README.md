@@ -8,18 +8,8 @@ You can use this repository for things like [Eurobot](https://www.eurobot.org/).
 If your file is in this repo and you want to pull out this file, please contact me !
 To participate to this repo -> [Pull Request](https://github.com/...)
 
----------------
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [Embedded systems](#1.-Embedded-Systems)
-  * [Makers MCUs](# 1.1.-Maker-MCUs)
-  * [Industrial MCUs](# 1.2.-Industrial-MCUs)
-  * [Linux single_board computers](#1.3.-Linux-singleboard-computers)
-  * [Accessoiries and other stuff](#1.4.-Accessoiries-and-other-stuff)
- 
 ===============
+
 # 1. Embedded Systems
 Absolute knowleadgeKnowleages: C/C++ mostly embedded use language, Python, 
 
