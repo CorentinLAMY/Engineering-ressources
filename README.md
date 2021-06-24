@@ -47,8 +47,8 @@ Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of syst
 
 ### 1.2.2 Development Environment
 You can program on STM32 with:
-* [STM32CubeMX & IDE](http://...)
-* [PlatformIO STM32 tutorial](https://docs.platformio.org/en/latest/tutorials/ststm32/stm32cube_debugging_unit_testing.html#tutorial-stm32cube-debugging-unit-testing)
+* [STM32CubeMX & IDE](http://...) Development environment provide by STMicroelectronics
+* [PlatformIO STM32 tutorial](https://docs.platformio.org/en/latest/tutorials/ststm32/stm32cube_debugging_unit_testing.html#tutorial-stm32cube-debugging-unit-testing) Open-Source IDE
 
 ## 1.3. Linux singleboard computers
 
