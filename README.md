@@ -44,6 +44,9 @@ Needed knowleadges:
 Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of systems !
 
 ### 1.2.1 Books :books:
+* [RTOS with Microcontrollers](http://...)
+* [Advanced Programming with STM32 Microcontrollers](http://...)
+* [Nucleo Boards Programming with the STM32CubeIDE](http://...)
 
 ### 1.2.2 Development Environment
 You can program on STM32 with:
