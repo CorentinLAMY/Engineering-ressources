@@ -37,6 +37,9 @@ Needed knowleadges:
 [Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China.
 ### 1.1.1 Books :books:
 
+### 1.1.2 Development Environment
+* [](http://...)
+
 ## 1.2. Industrial MCUs
 [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html),
 [PIC32](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/32-bit-mcu),
@@ -62,6 +65,9 @@ You can program on STM32 with:
 ### 2.1.1 Books :books:
 ### 2.1.2 Videos
 ### 2.1.3 CAD Softwares
+* [Eagle](http://...) Professionnal CAD Software available for free with restriction (Fusion360 is used to visualize the 3D model)
+* [KiCad EDA](http://...) Open-Source / Free 
+
 ### 2.1.4 Simulation Softwares
 
 
@@ -70,6 +76,11 @@ You can program on STM32 with:
 ### 3.1.1 Books :books:
 ### 3.1.2 Videos
 ### 2.1.3 CAD Softwares
+* [SOLIDWORKS](http://...) Professionnal CAD Software
+* [Fusion360](http://...) Free plan for hobbyist (not all function available)
+* [OnShape](http://...) Free plan for hobbyist (save accessible by everyone, no private folder)
+* [FreeCAD](http://...) Open-Source / Free 
+
 ### 2.1.4 Simulation Softwares
 # 3.2. Standard components
 
