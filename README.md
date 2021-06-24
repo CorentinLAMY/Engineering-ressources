@@ -35,7 +35,7 @@ Needed knowleadges:
 
 
 ## 1.1. Maker MCUs
-[Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China. Raspberry Pi 
+[Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China. Raspberry-Pi Fondation designed their first microcontroller the [Raspberry-Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/).
 
 ### 1.1.1 Books :books:
 * [Le grand livre d'ARDUINO](https://):fr:
