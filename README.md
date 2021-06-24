@@ -1,14 +1,12 @@
-La maxi liste des ressources pour faire (un bon) robot à Eurobot
+Ressources of engineering 
 ===============
 
-Ce repo est destiné à compiler et partager les ressources (cours/vidéos/composants/discussions/liens) en lien avec la compétition [Eurobot](https://www.eurobot.org/).
+This repository is tedicated to collect and share ressources about engineering for robotic, embedded system and everything about the maker community !
 
-Les cours, en PDF de préférence, sont sauvegardés sur le repo afin d'assure leur longévité (même si ça reste à prouver).
+You can use this repository for things like [Eurobot](https://www.eurobot.org/).
 
-Si un document vous appartient et que vous souhaitez le faire retirer, merci de nous contact.
-
-Vous pouvez contribuer en créant une [Pull Request](https://github.com/VRAC-team/ressources/pulls)
-
+If your file is in this repo and you want to pull out this file, please contact me !
+To participate to this repo -> [Pull Request](https://github.com/...)
 
 ---------------
 # 1. Ressources académiques
