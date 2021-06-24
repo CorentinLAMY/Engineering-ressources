@@ -18,12 +18,14 @@ Table of contents:
   * [Industrial MCUs](#12-industrial-mcus)
   * [Linux singleboard computers](#13-linux-singleboard-computers)
   * [Accessoiries and other stuff](#14-accessoiries-and-other-stuff)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Electronical Engineering](#2-electronical-engineering)
+  * [Ressources](#21-ressources)
+* [Mechanical Engineering](#3-mechanical-engineering)
+  * [Ressources](#31-ressources)
+* [Robotics](#4-robotics)
+  * [Frameworks and tools](#41-frameworks-and-tools)
+* [Manufacturing](#5-manufacturing)
+  * [test](#test)
 # 1. Embedded Systems
 Needed knowleadges: 
 - C/C++ language 
@@ -66,7 +68,7 @@ Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of syst
 
 # 4. Robotics
 
-## 4.1. Frameworks
+## 4.1. Frameworks and tools
 ### 4.1.1 R.O.S
 ### 4.1.2 Micro-ROS
 ### 4.1.3 ROSSerial Library
