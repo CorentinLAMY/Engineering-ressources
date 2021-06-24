@@ -11,13 +11,8 @@ To participate to this repo -> [Pull Request](https://github.com/...)
 ===============
 :books: 
 
-:fr: 
-
-:en:
-
-:robot:
-
-:gear:
+:fr:
+:gb:
 ===============
 
 # 1. Embedded Systems
