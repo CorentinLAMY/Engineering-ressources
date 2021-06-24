@@ -46,9 +46,9 @@ Needed knowleadges:
 * [Arduino CookBook](https://) :gb: 
 
 ### 1.1.2 Development Environment
-* [Arduino IDE](http://...) Open-Source IDE
-* [Arduino Pro](http://...) Open-Source IDE for pro grade Arduino boards
-* [PlatformIO](http://...) Open-Source IDE for more than 1000 boards!!!
+* [Arduino IDE](http://...) :gb: & :fr: Open-Source IDE
+* [Arduino Pro](http://...) :gb: & :fr: Open-Source IDE for pro grade Arduino boards
+* [PlatformIO](http://...) :gb: Open-Source IDE for more than 1000 boards!!!
 
 ## 1.2. Industrial MCUs
 [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html),
@@ -63,16 +63,16 @@ Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of syst
 
 ### 1.2.2 Development Environment
 You can program on STM32 with:
-* [STM32CubeMX & IDE](http://...):gb: Development environment provide by STMicroelectronics
-* [PlatformIO STM32 tutorial](https://docs.platformio.org/en/latest/tutorials/ststm32/stm32cube_debugging_unit_testing.html#tutorial-stm32cube-debugging-unit-testing):gb: Open-Source IDE
+* [STM32CubeMX & IDE](http://...) :gb: Development environment provide by STMicroelectronics
+* [PlatformIO STM32 tutorial](https://docs.platformio.org/en/latest/tutorials/ststm32/stm32cube_debugging_unit_testing.html#tutorial-stm32cube-debugging-unit-testing) :gb: Open-Source IDE
 
 You can program on PIC microcontrollers with:
-* [MPLAB X IDE](https://) For development
-* [MPLAB X IPE](https://) To transfert program
-* [MPLAB Harmony](https://) For project creation with libraries
+* [MPLAB X IDE](https://) :gb: For development
+* [MPLAB X IPE](https://) :gb: To transfert program
+* [MPLAB Harmony](https://) :gb: For project creation with libraries
 
 Most (not all) MCUs like Arduino, STM32, PIC32 and ESP32 can be program and debug with:
-* [PlatformIO](https://...) One of the best IDE available for free.
+* [PlatformIO](https://...) :gb: One of the best IDE available for free.
 
 ## 1.3. Linux singleboard computers
 * [Raspberry-Pi](https://...)
