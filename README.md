@@ -1,9 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 Ressources for engineering 
 ===============
 
@@ -19,11 +13,11 @@ To participate to this repo -> [Pull Request](https://github.com/...)
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Embedded systems](# 1. Embedded Systems)
-  * [Makers MCUs](# 1.1. Maker MCUs (Arduino boards))
-  * [Industrial MCUs](# 1.2. Industrial MCUs (ST-Microelectronic, Microchip PIC MCU))
-  * [Linux single_board computers](# 1.3. Linux single_board computers (Raspberry Pi, Jetson Nano))
-  * [Accessoiries and other stuff](# 1.4. Accessoiries and other stuff)
+* [Embedded systems](#1.-Embedded-Systems)
+  * [Makers MCUs](# 1.1.-Maker-MCUs-(Arduino boards))
+  * [Industrial MCUs](# 1.2.-Industrial-MCUs-(STMicroelectronic,-Microchip-PIC-MCU))
+  * [Linux single_board computers](#1.3.-Linux-singleboard-computers-(Raspberry Pi,-Jetson Nano))
+  * [Accessoiries and other stuff](#1.4.-Accessoiries-and-other-stuff)
  
 ===============
 # 1. Embedded Systems
@@ -33,7 +27,7 @@ Absolute knowleadgeKnowleages: C/C++ mostly embedded use language, Python,
 [Arduino](https://www.arduino.cc/)
 Easist way to learn embedded systems!
 
-## 1.2. Industrial MCUs (ST-Microelectronic, Microchip PIC MCU)
+## 1.2. Industrial MCUs (STMicroelectronic, Microchip PIC MCU)
 [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [PIC32](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/32-bit-mcu)
 Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of systems !
