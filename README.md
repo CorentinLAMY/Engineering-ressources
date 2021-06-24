@@ -17,7 +17,8 @@ Table of contents:
   * [Maker MCUs](#11-maker-mcus)
   * [Industrial MCUs](#12-industrial-mcus)
   * [Linux singleboard computers](#13-linux-singleboard-computers)
-  * [Accessoiries and other stuff](#14-accessoiries-and-other-stuff)
+  * [FPGA](#14-fpga)
+  * [Accessoiries and other stuff](#15-accessoiries-and-other-stuff)
 * [Electronical Engineering](#2-electronical-engineering)
   * [Ressources](#21-ressources)
 * [Mechanical Engineering](#3-mechanical-engineering)
@@ -77,7 +78,10 @@ Most (not all) MCUs like Arduino, STM32, PIC32 and ESP32 can be program and debu
 * [Raspberry-Pi](https://...)
 * [NVidia Jetson-Nano](https://...)
 
-## 1.4. Accessoiries and other stuff
+## 1.4. FPGA
+FPGA development for embedded system design.
+
+## 1.5. Accessoiries and other stuff
 * Debugger and programmer for MCUs
   * [PICkit 4 for PIC8/16/32 bits](https://) The minimal PIC programmer and debugger
   * [ICD4 for PIC8/16/32 bits](https://) The best PIC programmer and debugger
