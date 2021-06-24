@@ -4,7 +4,7 @@ Ressources for engineering
 This repository is tedicated to collect and share ressources about engineering for robotic, embedded system and everything about the maker community !
 
 You can use this repository for things like [Eurobot](https://www.eurobot.org/).
-Ressources are mostly in english :gb:, but some of them are in french :fr:.
+Ressources are mostly in english :gb: , but some of them are in french :fr:.
 
 If your file is in this repo and you want to pull out this file, please contact me !
 To participate to this repo -> [Pull Request](https://github.com/...)
