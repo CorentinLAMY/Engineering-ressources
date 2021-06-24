@@ -5,7 +5,7 @@ This repository is dedicated to collect and share ressources about engineering f
 
 You can use this repository for engineering purposes, for things like [Eurobot](https://www.eurobot.org/) or in a [FabLabs](https://www.fablabs.io/).
 
-Ressources are mostly in english :gb:, but some of them are in french :fr:.
+Ressources are mostly in english :gb:, but some of them are in french :fr: (I'm french 🙂).
 
 If your file is in this repo and you want to pull out this file, please contact me !
 To participate to this repo -> [Pull Request](https://github.com/CorentinLAMY/Engineering-ressources/pulls)
