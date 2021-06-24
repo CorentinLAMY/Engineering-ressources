@@ -39,7 +39,9 @@ Needed knowleadges:
 ### 1.1.1 Books :books:
 
 ### 1.1.2 Development Environment
-* [](http://...)
+* [Arduino IDE](http://...) Open-Source IDE
+* [Arduino Pro](http://...) Open-Source IDE for pro grade Arduino boards
+* [PlatformIO](http://...) Open-Source IDE for more than 1000 boards!!!
 
 ## 1.2. Industrial MCUs
 [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html),
@@ -48,14 +50,14 @@ Needed knowleadges:
 Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of systems !
 
 ### 1.2.1 Books :books:
-* [RTOS with Microcontrollers](http://...)
-* [Advanced Programming with STM32 Microcontrollers](http://...)
-* [Nucleo Boards Programming with the STM32CubeIDE](http://...)
+* [RTOS with Microcontrollers](http://...):gb:
+* [Advanced Programming with STM32 Microcontrollers](http://...):gb:
+* [Nucleo Boards Programming with the STM32CubeIDE](http://...):gb:
 
 ### 1.2.2 Development Environment
 You can program on STM32 with:
-* [STM32CubeMX & IDE](http://...) Development environment provide by STMicroelectronics
-* [PlatformIO STM32 tutorial](https://docs.platformio.org/en/latest/tutorials/ststm32/stm32cube_debugging_unit_testing.html#tutorial-stm32cube-debugging-unit-testing) Open-Source IDE
+* [STM32CubeMX & IDE](http://...):gb: Development environment provide by STMicroelectronics
+* [PlatformIO STM32 tutorial](https://docs.platformio.org/en/latest/tutorials/ststm32/stm32cube_debugging_unit_testing.html#tutorial-stm32cube-debugging-unit-testing):gb: Open-Source IDE
 
 ## 1.3. Linux singleboard computers
 
