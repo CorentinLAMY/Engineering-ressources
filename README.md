@@ -1,7 +1,7 @@
 Ressources for engineering 
 ==========================
 
-This repository is tedicated to collect and share ressources about engineering for robotic, embedded system and everything about the maker community !
+This repository is dedicated to collect and share ressources about engineering for robotic, embedded system and everything about the maker community !
 
 You can use this repository for things like [Eurobot](https://www.eurobot.org/), or in a [FabLabs](https://www.fablabs.io/).
 
