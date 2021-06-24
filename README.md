@@ -3,7 +3,7 @@ Ressources for engineering
 
 This repository is dedicated to collect and share ressources about engineering for robotic, embedded system and everything about the maker community !
 
-You can use this repository because you are an engineer of for things like [Eurobot{:target="blank"}](https://www.eurobot.org/), or in a [FabLabs{:target="blank"}](https://www.fablabs.io/).
+You can use this repository because you are an engineer of for things like [Eurobot](https://www.eurobot.org/), or in a [FabLabs](https://www.fablabs.io/).
 
 Ressources are mostly in english :gb:, but some of them are in french :fr:.
 
