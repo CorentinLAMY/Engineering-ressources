@@ -16,7 +16,7 @@ Table of contents:
 * [Embedded Systems](#1-embedded-systems)
   * [Maker MCUs](#11-maker-mcus)
   * [Industrial MCUs](#12-industrial-mcus)
-  * [Linux singleboard computers](#prerequisites)
+  * [Linux singleboard computers](#13-linux-singleboard-computers)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
