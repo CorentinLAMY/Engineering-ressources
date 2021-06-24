@@ -14,8 +14,8 @@ Table of contents:
 =================
 
 * [Embedded Systems](#1-embedded-systems)
-  * [maker MCUs](#1.1.-Maker-MCUs)
-  * [Industrial MCUs](#getting-started)
+  * [Maker MCUs](#11-maker-mcus)
+  * [Industrial MCUs](#12-industrial-mcus)
   * [Linux singleboard computers](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
@@ -37,8 +37,9 @@ Easist way to learn embedded systems!
 ### 1.1.1 Books :books:
 
 ## 1.2. Industrial MCUs
-[STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
-[PIC32](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/32-bit-mcu)
+[STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html),
+[PIC32](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/32-bit-mcu),
+[ESP32](https://www.espressif.com/en/products/socs/esp32)
 Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of systems !
 ### 1.2.1 Books :books:
 
