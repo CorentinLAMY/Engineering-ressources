@@ -4,7 +4,7 @@ Ressources for engineering
 This repository is tedicated to collect and share ressources about engineering for robotic, embedded system and everything about the maker community !
 
 You can use this repository for things like [Eurobot](https://www.eurobot.org/).
-Ressources are mostly in english :gb: , but some of them are in french :fr:.
+Ressources are mostly in english :gb:, but some of them are in french :fr:.
 
 If your file is in this repo and you want to pull out this file, please contact me !
 To participate to this repo -> [Pull Request](https://github.com/...)
@@ -22,11 +22,13 @@ Absolute knowleadgeKnowleages: C/C++ mostly embedded use language, Python,
 ## 1.1. Maker MCUs
 [Arduino](https://www.arduino.cc/)
 Easist way to learn embedded systems!
+### 1.1.1 Books :books:
 
 ## 1.2. Industrial MCUs
 [STM32](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [PIC32](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/32-bit-mcu)
 Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of systems !
+### 1.2.1 Books :books:
 
 ## 1.3. Linux single_board computers
 
@@ -34,7 +36,7 @@ Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of syst
 
 # 2. Electronical Engineering
 ## 2.1. Ressources
-### 2.1.1 Books
+### 2.1.1 Books :books:
 ### 2.1.2 Videos
 ### 2.1.3 CAD Softwares
 ### 2.1.4 Simulation Softwares
@@ -42,7 +44,7 @@ Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of syst
 
 # 3. Mechanical Engineering
 ## 3.1. Ressources
-### 3.1.1 Books
+### 3.1.1 Books :books:
 ### 3.1.2 Videos
 ### 2.1.3 CAD Softwares
 ### 2.1.4 Simulation Softwares
