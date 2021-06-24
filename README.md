@@ -17,7 +17,7 @@ Table of contents:
   * [Maker MCUs](#11-maker-mcus)
   * [Industrial MCUs](#12-industrial-mcus)
   * [Linux singleboard computers](#13-linux-singleboard-computers)
-  * [Installation](#installation)
+  * [Accessoiries and other stuff](#14-accessoiries-and-other-stuff)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
