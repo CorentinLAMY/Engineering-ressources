@@ -34,8 +34,7 @@ Needed knowleadges:
 
 
 ## 1.1. Maker MCUs
-[Arduino](https://www.arduino.cc/)
-Easist way to learn embedded systems!
+[Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China.
 ### 1.1.1 Books :books:
 
 ## 1.2. Industrial MCUs
