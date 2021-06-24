@@ -62,6 +62,13 @@ You can program on STM32 with:
 ## 1.3. Linux singleboard computers
 
 ## 1.4. Accessoiries and other stuff
+* Debugger and programmer for MCUs
+  * [PICkit 4 for PIC8/16/32 bits](https://) The minimal PIC programmer and debugger
+  * [ICD4 for PIC8/16/32 bits](https://) The best PIC programmer and debugger
+  * [ST-Link/V3 for STM8/32](https://) Made by STMicroelectronic for STM-Microcontroller
+  * [SEGGER J-Link](https://) 
+  * [Tag-Connector](https://) PCB connector without component
+
 
 # 2. Electronical Engineering
 ## 2.1. Ressources
