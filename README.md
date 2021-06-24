@@ -42,6 +42,11 @@ Needed knowleadges:
 [PIC32](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/32-bit-mcu),
 [ESP32](https://www.espressif.com/en/products/socs/esp32)
 Why 32 bits microcontroller? Why not ! Powerfull, Cheap and use in a lot of systems !
+
+You can program on STM32 with:
+* [STM32CubeMX & IDE](http://...)
+* [PlatformIO STM32 tutorial](https://docs.platformio.org/en/latest/tutorials/ststm32/stm32cube_debugging_unit_testing.html#tutorial-stm32cube-debugging-unit-testing)
+
 ### 1.2.1 Books :books:
 
 ## 1.3. Linux singleboard computers
