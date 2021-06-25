@@ -4,6 +4,7 @@ Ressources for engineering
 This repository is dedicated to collect and share ressources about engineering for robotic, embedded system and everything about the maker community!
 If you are an hobbyist, an enthusiast, a maker or an engineer this repository is for you!
 You can use this repository for engineering purposes, for things like [Eurobot](https://www.eurobot.org/) or in a [FabLabs](https://www.fablabs.io/).
+Don't hesite to share it !
 
 Ressources are mostly in english :gb:, but some of them are in french :fr: (I'm french 🙂).
 
@@ -26,7 +27,11 @@ Table of contents:
 * [Robotics](#4-robotics)
   * [Frameworks and tools](#41-frameworks-and-tools)
 * [Manufacturing](#5-manufacturing)
-  * [test](#test)
+  * [3D printing](#51-3d-printing)
+  * [CNC machining](#52-cnc-machining)
+  * [Sheet metal](#53-sheet-metal)
+  * [Injection molding](#54-injection-molding)
+  * [Urethane casting](#55-urethane-casting)
 
 # 1. Embedded Systems
 Needed knowleadges: 
@@ -102,6 +107,21 @@ FPGA development for embedded system design.
 ### 2.1.4 Simulation Softwares
 * [LTSpice](https://...)
 
+## 2.2. Shops
+### 2.2.1 Compoenents
+* [Mouser]()
+* [Farnell]()
+* [RS Components]()
+* [DigiKey]()
+
+### 2.2.2 Prototyping stuff
+* [Adafruit]()
+* [Sparkfun]()
+
+## 2.3. PCB Manufacturers
+* [JLCPCB](https://jlcpcb.com/)
+* [PCBWay](https://www.pcbway.com/)
+
 # 3. Mechanical Engineering
 ## 3.1. Ressources
 ### 3.1.1 Books :books:
@@ -116,7 +136,7 @@ FPGA development for embedded system design.
 * [ANSYS](https://)
 * [SOLIDWORKS Simulation](https://)
 
-# 3.2. Standard components
+# 3.2. Components
 * Bearing:
   * [SKF](https://...)
   * [NTN-SNR](https://...)
@@ -156,3 +176,14 @@ The C/C++ version is more complex to use but you obtain better performance and y
 * [OpenCV Website](https://docs.opencv.org/master/index.html)
 * [OpenCV Python tutorials](https://opencv24-python-tutorials.readthedocs.io/en/latest/)
 
+# 5. Manufacturing
+## 5.1. 3D printing
+### 5.1.1 FDM
+### 5.1.2 SLA/MSLA/DLP
+### 5.1.3 SLS
+## 5.2. CNC machining
+### 5.2.1 Milling machine
+### 5.2.3 Lathe
+## 5.3. Sheet metal
+## 5.4. Injection molding
+## 5.5. Urethane casting
