@@ -42,6 +42,7 @@ Needed knowleadges:
 - Basics of electronic -> [Electronical engineering](#2-electronical-engineering)
 - Python
 
+In embedded systems, we use MCUs and MPUs to build autonomous electronical systems. 
 
 ## 1.1. Maker MCUs
 * [Arduino](https://www.arduino.cc/) is one of the most famous microcontroller in the world. It's Open-Source/Hardware and clones are very cheap in China.
