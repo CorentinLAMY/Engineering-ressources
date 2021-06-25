@@ -36,7 +36,7 @@ Table of contents:
 # 1. Embedded Systems
 Needed knowleadges: 
 - C/C++
-- Basics of electronic -> [Advance electronics](#2-electronical-engineering)
+- Basics of electronic -> [Electronical engineering](#2-electronical-engineering)
 - Python
 
 
