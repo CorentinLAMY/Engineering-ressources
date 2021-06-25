@@ -95,11 +95,12 @@ FPGA development for embedded system design.
 ### 2.1.1 Books :books:
 ### 2.1.2 Videos
 ### 2.1.3 CAD Softwares
-* [Eagle](http://...) Professionnal CAD Software available for free with restriction (Fusion360 is used to visualize the 3D model)
-* [KiCad EDA](http://...) Open-Source / Free 
+* [Eagle](https://...) Professionnal CAD Software available for free with restriction (Fusion360 is used to visualize the 3D model)
+* [KiCad EDA](https://...) Open-Source / Free 
+* [EasyEDA](https://...) Free online software
 
 ### 2.1.4 Simulation Softwares
-
+* [LTSpice](https://...)
 
 # 3. Mechanical Engineering
 ## 3.1. Ressources
@@ -116,7 +117,11 @@ FPGA development for embedded system design.
 * [SOLIDWORKS Simulation](https://)
 
 # 3.2. Standard components
-
+* Bearing
+  * [SKF](https://...)
+  * [NTN-SNR](https://...)
+* Plastic mecanical linkage
+  * [igus](https://www.igus.com/) 
 
 # 4. Robotics
 
