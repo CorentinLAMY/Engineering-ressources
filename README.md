@@ -76,7 +76,7 @@ Most (not all) MCUs like Arduino, STM32, PIC32 and ESP32 can be program and debu
 
 ## 1.3. Linux singleboard computers
 * [Raspberry-Pi](https://...)
-* [NVidia Jetson-Nano](https://...)
+* [Nvidia Jetson-Nano](https://...)
 
 ## 1.4. FPGA
 FPGA development for embedded system design.
@@ -140,5 +140,8 @@ FPGA development for embedded system design.
 ### 4.3.2 Mathematic ressources
 
 ## 4.4. Vision
-
+For vision application, I recommand OpenCV. This library is available in Python and in C/C++.
+The C/C++ version is more complex to use but you obtain better performance and you can use it with Nvidia CUDA cores.
+* [OpenCV Website](https://docs.opencv.org/master/index.html)
+* [OpenCV Python tutorials](https://opencv24-python-tutorials.readthedocs.io/en/latest/)
 
