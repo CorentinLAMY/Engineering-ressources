@@ -132,6 +132,11 @@ FPGA development for embedded system design.
 
 ## 4.2. Mobile robot
 ### 4.2.1 Frame
+The frame of your robot depend of your application but some technologies are often used.
+* [MakerBeam](https://www.makerbeam.com/) 10x10mm and 15x15mm aluminium profile kits.
+* Lazer cutting parts
+* 3D printed parts
+* 
 ### 4.2.2 Wheel
 ### 4.2.3 Odometry
 
