@@ -26,6 +26,9 @@ Table of contents:
   * [Ressources](#31-ressources)
 * [Robotics](#4-robotics)
   * [Frameworks and tools](#41-frameworks-and-tools)
+  * [Mobile robot](#42-mobile-robot)
+  * [Robot Arm](#43-robot-arm)
+  * [Computer vision](#44-computer-vision)
 * [Manufacturing](#5-manufacturing)
   * [3D printing](#51-3d-printing)
   * [CNC machining](#52-cnc-machining)
@@ -170,7 +173,7 @@ The frame of your robot depend of your application but some technologies are oft
 this list is not explicit but reference different type of 
 ### 4.3.2 Mathematic ressources
 
-## 4.4. Vision
+## 4.4. Computer vision
 For vision application, I recommand OpenCV. This library is available in Python and in C/C++.
 The C/C++ version is more complex to use but you obtain better performance and you can use it with Nvidia CUDA cores.
 * [OpenCV Website](https://docs.opencv.org/master/index.html)
