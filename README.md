@@ -8,7 +8,7 @@ You can use this repository for engineering purposes, for things like [Eurobot](
 Ressources are mostly in english :gb:, but some of them are in french :fr: (I'm french 🙂).
 
 If your file is in this repo and you want to pull out this file, please contact me !
-To participate to this repo -> [Pull Request](https://github.com/CorentinLAMY/Engineering-ressources/pulls)
+To participate to this repo -> [New pull request](https://github.com/CorentinLAMY/Engineering-ressources/pulls)
 
 Table of contents:
 =================
