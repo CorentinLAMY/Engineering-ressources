@@ -117,10 +117,10 @@ FPGA development for embedded system design.
 * [SOLIDWORKS Simulation](https://)
 
 # 3.2. Standard components
-* Bearing
+* Bearing:
   * [SKF](https://...)
   * [NTN-SNR](https://...)
-* Plastic mecanical linkage
+* Plastic mecanical linkage:
   * [igus](https://www.igus.com/) 
 
 # 4. Robotics
@@ -136,12 +136,18 @@ The frame of your robot depend of your application but some technologies are oft
 * [MakerBeam](https://www.makerbeam.com/) 10x10mm and 15x15mm aluminium profile kits.
 * Lazer cutting parts
 * 3D printed parts
-* 
+
 ### 4.2.2 Wheel
+* Complex Wheels:
+  * [Mecanum wheels]()
+  * [Holonum wheels]() 
+* DIY:
+  * blabla 
 ### 4.2.3 Odometry
 
 ## 4.3. Robot Arm
 ### 4.3.1 Type of robot
+this list is not explicit but reference different type of 
 ### 4.3.2 Mathematic ressources
 
 ## 4.4. Vision
